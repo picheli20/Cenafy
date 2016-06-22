@@ -1,7 +1,7 @@
 {
-  "name": "Cenafy",
+  "name": "Cenafy 2 in 20",
   "version": "1.0.4",
-  "description": "And his name is John Cena",
+  "description": "Cenafy forked with 2 in 20 changes to appers",
 
   "content_scripts": [
     {
