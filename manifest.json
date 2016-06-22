@@ -1,6 +1,6 @@
 {
   "name": "Cenafy 2 in 20",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "Cenafy forked with 2 in 20 changes to appers",
 
   "content_scripts": [
